@@ -1,0 +1,2 @@
+list=["vviek"]
+print("list")
